@@ -30,8 +30,8 @@ function submitExam() {
 
     // Respuestas correctas en un array (Solo las primeras 70 como ejemplo)
     var correctAnswers = [
-        "A", "B", "A", "B", "A", "A", "B", "A", "A", "B", "A", "B", "A", "B", "A", "A", "C", "C", "A", "B", // 1-20
-        "A", "B", "Bs", "B", "B", "B", "A", "B", "A", "B", "D", "A", "C", "A", "C", "B", "D", "A", "D", "D", // 21-40
+        "A", "B", "A", "B", "A", "A", "B", "D", "A", "B", "A", "B", "A", "B", "A", "A", "C", "C", "A", "B", // 1-20
+        "A", "B", "B", "B", "B", "B", "A", "B", "A", "B", "D", "A", "C", "A", "C", "B", "D", "A", "D", "D", // 21-40
         "B", "A", "A", "A", "A", "D", "D", "C", "A", "C", "A", "A", "B", "D", "D", "B", "C", "B", "A", "B", // 41-60
         "C", "B", "B", "C", "B", "A", "C", "B", "B", "B", "B", "B", "B", "B", "B", "C", "B", "B", "C", "A", // 61-80
         "A", "B", "B", "B", "B", "B", "B", "B", "B", "B", "B", "C", "D", "A", "B", "C", "B", "A", "B", "B", // 81-100
